@@ -1,0 +1,1 @@
+# django_origin_structure_base
